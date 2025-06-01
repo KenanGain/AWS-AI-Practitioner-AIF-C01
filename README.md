@@ -99,25 +99,31 @@ Good luck, and may your AI journey be enlightening! 🚀
 
 ## 😂 Meme Break
 
-Below are some AI- and AWS-themed memes to lighten your study sessions:
+Below are some AI- and AWS-themed memes and GIFs to lighten your study sessions:
 
 ---
 
 ### “When your model finally converges after 100 epochs”  
-![Converged Model Meme](https://i.imgflip.com/6j3j8i.jpg)  
-*“It’s alive… and accurate!”*
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Converged Model GIF" width="300"/>
+  <p><em>"It's alive... and accurate!"</em></p>
+</div>
 
 ---
 
 ### “Me debugging why my SageMaker endpoint is timing out”  
-![Frustration Meme](https://i.imgflip.com/5s6d1x.jpg)  
-*“Why won’t you just respond?!”*
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Frustration GIF" width="300"/>
+  <p><em>"Why won’t you just respond?!"</em></p>
+</div>
 
 ---
 
 ### “That feeling when you realize Generative AI can write your code”  
-![Mind Blown Meme](https://i.imgflip.com/4/40w7yg.jpg)  
-*“Wait—AI can write my unit tests too?!”*
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Mind Blown GIF" width="300"/>
+  <p><em>"Wait—AI can write my unit tests too?!"</em></p>
+</div>
 
 ---
 
