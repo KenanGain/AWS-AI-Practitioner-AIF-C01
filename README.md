@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
-    <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-AI-Practitioner_512x512.c2ecddcbd5dd1cef2105adcf507e29c6e23ba1b5.png" alt="AWS AI Practitioner Badge" width="200"/>
+    <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/aif-badge-resized.60d18a9a788f1bb28fed8d453ef896721c06f8f5.png" alt="AWS AI Practitioner Badge" width="200"/>
   </a>
 </p>
 
